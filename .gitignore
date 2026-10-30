@@ -1,0 +1,8 @@
+﻿.env
+.venv/
+__pycache__/
+*.py[cod]
+memory/*.sqlite3
+memory/*.sqlite3-shm
+memory/*.sqlite3-wal
+models/audio/
